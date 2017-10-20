@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>novideo.png</file>
+        <file>edges.jpg</file>
+    </qresource>
+</RCC>

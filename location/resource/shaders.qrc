@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>yv12Display.fsh</file>
+        <file>yv12Display.vsh</file>
+        <file>textureDisplay.fsh</file>
+        <file>textureDisplay.vsh</file>
+        <file>frameDisplayWithScanline.fsh</file>
+        <file>frameDisplayWithScanline.vsh</file>
+        <file>gaussBlur.vsh</file>
+        <file>gaussBlurh.fsh</file>
+        <file>gaussBlurv.fsh</file>
+    </qresource>
+</RCC>
